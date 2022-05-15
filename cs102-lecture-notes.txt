@@ -1,0 +1,5 @@
+git clone:clones a directory into a local folder
+git add:adds all the files in local machine to the repository
+git commit:commits the changes to the server
+git pull origin main:pulls all the changes done to the server to the local machine
+git status:to see current status of the repository
